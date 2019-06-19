@@ -1,0 +1,19 @@
+h1 {
+  background-color: gray;
+  height: 100px;
+  text-align: center;
+  line-height: 200px;
+  height: 200px;
+  color: white;
+  border-style:solid;
+}
+img {
+  height: 300px;
+  width: auto;
+  justify-content: space-between;
+}
+@media only screen and (max-width: 842px) {
+  body {
+    background-color: gray;
+  }
+}
