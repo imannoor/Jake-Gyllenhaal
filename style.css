@@ -12,7 +12,7 @@ img {
   width: auto;
   justify-content: space-between;
 }
-@media only screen and (max-width: 842px) {
+@media only screen and (max-width: 850px) {
   body {
     background-color: gray;
   }
